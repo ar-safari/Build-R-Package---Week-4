@@ -3,7 +3,7 @@
 This R package is the Week 4 final assignment for the "Building R Packages" on Coursera
 
 
-SInstallation
+#Installation
 To install this package to run on your system, please first install and load the devtools package. Then you may install and load this package:
 
 install_github('ar-safari/brpextravis',build_vignettes = TRUE)
