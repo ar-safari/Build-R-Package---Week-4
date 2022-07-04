@@ -1,4 +1,4 @@
-## Build R Project Week 4 - Coursera
+## Build-R-Project-Week 4
 ### By Alireza Safari
 
 This R package is the Week 4 final assignment for the "Building R Packages" on Coursera
